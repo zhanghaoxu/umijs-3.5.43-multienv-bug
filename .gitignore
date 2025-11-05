@@ -1,0 +1,35 @@
+# dependencies
+/**/node_modules
+/**/npm-debug.log*
+/**/yarn-error.log
+/**/yarn.lock
+/**/package-lock.json
+
+# ide
+/.idea
+/.vscode
+/.history
+
+#yarn
+/.yarn
+
+# production
+
+/**/dist
+
+# misc
+.DS_Store
+
+# umi
+/**/src/.umi
+/**/src/.umi-production
+/**/src/.umi-test
+/.env.local
+dist
+
+#pnpm
+pnpm-lock.yaml
+
+.svn
+.yarn.lock
+.package-lock.json
